@@ -1,0 +1,17 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node / Dependencies
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Vercel
+.vercel
+
+# Temporary / Scratch files
+scratch/
+*.tmp
+*.log
